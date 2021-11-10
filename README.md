@@ -1,3 +1,6 @@
-# templates1
+# useful templates
 
-1. simple sidebar
+## practice
+
+1. simple-sidebar
+2. scroll-sections
